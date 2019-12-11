@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="addpost_label">Agregar Post</string>
+    <string name="login_label">Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="liked_tag">liked</string>
+    <string name="title_tag">title</string>
+    <string name="t">title</string>
+</resources>
